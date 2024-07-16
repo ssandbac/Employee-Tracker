@@ -6,7 +6,7 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Reed Sandbach",
+    "author": "",
     "license": "ISC",
     "dependencies": {
       "console-table-printer": "^2.12.0",
